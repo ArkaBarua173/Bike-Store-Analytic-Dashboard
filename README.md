@@ -33,7 +33,7 @@ This project leverages SQL and Power BI to analyze and visualize bike sales data
 21. Calculate the Rolling 7-Day Sales Total for Each Product.
 22. Calculate the Year-to-Date Sales for Each Product.
 
-## Interactive Dashboard
+## 📊 Interactive Dashboard
 
 Interactive Dashboard is created for decision makers with popular business intelligence tool PowerBI. This dashboard has 5 pages with navigation system.
 
