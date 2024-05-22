@@ -55,4 +55,4 @@ Interactive Dashboard is created for decision makers with popular business intel
 
 ### 5. Order Fulfillment Analysis
 
-![Sales Page](/Snapshot/Inventory.png)
+![Sales Page](/Snapshot/Order.png)
