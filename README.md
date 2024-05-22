@@ -1,7 +1,6 @@
 # 🚲 🏪 Bike Sales Performance Analysis with SQL and Power BI
 
-
-This project leverages SQL and Power BI to analyze bike sales data, focusing on order fulfillment performance. Key metrics include order status distribution, average processing times, and trends in fulfillment times. The insights derived help in optimizing sales and operational efficiency.
+This project leverages SQL and Power BI to analyze and visualize bike sales data. It focuses on key metrics such as order status distribution, average processing times, and sales trends over time. The analysis provides insights into customer purchasing behavior, product performance, and inventory management, helping to optimize sales strategies and operational efficiency. 
 
 ## 🔨 Tools Used
 - Python => is used for coverting csv files to sql files.
