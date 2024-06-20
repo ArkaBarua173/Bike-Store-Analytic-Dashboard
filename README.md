@@ -1,10 +1,11 @@
 # 🚲 🏪 Bike Sales Performance Analysis with SQL and Power BI
 
-This project leverages SQL and Power BI to analyze and visualize bike sales data. It focuses on key metrics such as order status distribution, average processing times, and sales trends over time. The analysis provides insights into customer purchasing behavior, product performance, and inventory management, helping to optimize sales strategies and operational efficiency. 
+This project leverages SQL and Power BI to analyze and visualize bike sales data. It focuses on key metrics such as order status distribution, average processing times, and sales trends over time. The analysis provides insights into customer purchasing behavior, product performance, and inventory management, helping to optimize sales strategies and operational efficiency.
 
 ## 🔨 Tools Used
+
 - Python => is used for coverting csv files to sql files.
-- PostgreSQL => is used to fetch many important queries.
+- PostgreSQL => is used to answer many important queries.
 - PowerQuery => is used for creating measures and calculation for visuals.
 - PowerBI => is used to create dashboard.
 
@@ -12,7 +13,7 @@ This project leverages SQL and Power BI to analyze and visualize bike sales data
 
 1. List all customers along with their orders, including order status and order dates.
 2. Find the total number of orders placed by each customer.
-3. Retrieve the total sales (quantity * list_price) for each product.
+3. Retrieve the total sales (quantity \* list_price) for each product.
 4. List all products that are currently out of stock.
 5. Find the most popular product category based on the number of products sold.
 6. Get a list of all completed orders along with the customer details and the total order amount.
@@ -35,24 +36,16 @@ This project leverages SQL and Power BI to analyze and visualize bike sales data
 
 ## Interactive Dashboard
 
-Interactive Dashboard is created for decision makers with popular business intelligence tool PowerBI. This dashboard has 5 pages with navigation system.
+Interactive Dashboard is created for decision makers with popular business intelligence tool PowerBI. This dashboard has 3 pages with navigation system.
 
-### 1. Sales Dashboard
+### 1. Sales Overview Page
 
 ![Sales Page](/Snapshot/Sales.png)
 
-### 2. Customer Analysis
+### 2. Store Analysis
 
-![Sales Page](/Snapshot/Customer.png)
+![Sales Page](/Snapshot/Stores.png)
 
-### 3. Product Performance
+### 3. Order Table Page
 
-![Sales Page](/Snapshot/Product.png)
-
-### 4. Inventory Management
-
-![Sales Page](/Snapshot/Inventory.png)
-
-### 5. Order Fulfillment Analysis
-
-![Sales Page](/Snapshot/Inventory.png)
+![Sales Page](/Snapshot/Order.png)
