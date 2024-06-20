@@ -12,7 +12,7 @@ This project leverages SQL and Power BI to analyze and visualize bike sales data
 
 1. List all customers along with their orders, including order status and order dates.
 2. Find the total number of orders placed by each customer.
-3. Retrieve the total sales (quantity * list_price) for each product.
+3. Retrieve the total sales for each product.
 4. List all products that are currently out of stock.
 5. Find the most popular product category based on the number of products sold.
 6. Get a list of all completed orders along with the customer details and the total order amount.
